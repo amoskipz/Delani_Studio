@@ -223,13 +223,14 @@ footer p{
   }
   #MERGE0{
     width: 50%;
-    margin-left: 4%;
+    margin-left: 5px !important;
     padding-bottom: 20px;
   }
   #MERGE1{
     width: 50%;
     margin-left: 4%;
     margin-bottom: 20px;
+    margin-right: 5px !important; 
   }
   #comment{
     margin-left: 4%;
